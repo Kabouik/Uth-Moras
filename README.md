@@ -11,3 +11,6 @@ Multiple links for those files already exist on mediafire, dl.free, tinyupload o
 3. Rename `Items.xml` from the Moras installation folder to `Items.xml.default`
 4. Paste the `items.xml.REALM` file into the Moras installation folder and rename it to `items.xml`
 5. Profit
+
+## Disclaimer
+The databases are the result of long data collections and may, in some cases, be based on databases from DAOC Live. Yet, many items have changed, no longer drop, or have never been available on Uthgard. It is therefore highly recommended to double check if the items you find in the Moras database actually exist on Uthgard (check housing for instance) before finalizing your template.
