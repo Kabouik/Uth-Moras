@@ -3,7 +3,7 @@
 
 This repository aims at providing download links for `Moras v1.74` and `items.xml` for all three realms in a single place, and make it reliable on the long term (no expiration on Github, and the ability to bookmark and search repositories).
 
-Multiple links for those files already exist on mediafire, dl.free, tinyupload or similar file sharing websites, but they can easily get lost or expire, and keeping track of versions on those websites can be very difficult since outdated versions may in some cases be better indexed than newer versions, let alone that the corresponding URLs are not always shared on the same forums.
+Multiple links for those files already exist on mediafire, dl.free, tinyupload or similar file sharing websites, but they can easily get lost or expire, and keeping track of versions on those websites can be very difficult since outdated versions may in some cases be better indexed than newer versions, let alone that the corresponding URLs are not always shared on the same forums. In general, one should not have to look through several forums and carefully compare post dates to use the Moras databases.
 
 ## How to use
 1. Download and install `Moras-1.74.exe` (works with Wine too, if you are not using Windows)
