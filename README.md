@@ -6,7 +6,7 @@ This repository aims at providing download links for `Moras v1.74` and `items.xm
 Multiple links for those files already exist on mediafire, dl.free, tinyupload or similar file sharing websites, but they can easily get lost or expire, and keeping track of versions on those websites can be very difficult since outdated versions may in some cases be better indexed than newer versions, and the corresponding URLs are now always shared on the same forums.
 
 ## How to use
-1. Download and install Moras 1.74.exe (works with Wine too, if you are not using Windows)
+1. Download and install `Moras-1.74.exe` (works with Wine too, if you are not using Windows)
 2. Download the database for your realm, `items.xml.REALM`
 3. Rename `Items.xml` from the Moras installation folder to `Items.xml.default`
 4. Paste the `items.xml.REALM` file into the Moras installation folder and rename it to `items.xml`
