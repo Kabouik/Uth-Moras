@@ -5,7 +5,7 @@ This repository aims at providing download links for `Moras v1.74` and `items.xm
 Multiple links for those files already exist on mediafire, dl.free, tinyupload or similar file sharing websites, but they can easily get lost or expire, and keeping track of versions on those websites can be very difficult since outdated versions may in some cases be better indexed than newer versions. Additionally, the corresponding URLs are not always shared on the same forums and finding the latest links can be tricky. In general, one should not have to look through several forums and carefully compare post dates to finally use the Moras databases.
 
 ## How to use
-1. Download and install `Moras-1.74.exe` (works with Wine too, if you are not using Windows)
+1. Download and install `Moras-1.74.exe` or `Moras-1.73-modified_by_Esme.exe` (the latter has been adapted to Uthgard and seems to export in English while the 1.74 only exports to German, it should also better support automatic editing quickbars for spellcrafters; I have not tested). The executables should work with Wine if you are not using Windows.
 2. Download the database for your realm, `items.xml.REALM`
 3. Rename `Items.xml` from the Moras installation folder to `Items.xml.default`
 4. Paste the `items.xml.REALM` file into the Moras installation folder and rename it to `items.xml`
