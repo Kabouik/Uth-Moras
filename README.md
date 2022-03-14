@@ -1,5 +1,5 @@
 # Moras SC tool and databases for DAOC Uthgard 2.0
-This repository aims at providing download links for `Moras v1.74` and `items.xml` for all three realms in a single place, and make them reliable on the long term (Githubs offers ways to bookmark or search repositories, and repositories do not expire).
+This repository aims at providing download links for `Moras v1.74` and `items.xml` for all three realms in a single place, and make them reliable on the long term (Github offers ways to bookmark or search repositories, and repositories do not expire).
 
 ## Why?
 Multiple links for those files already exist on mediafire, dl.free, tinyupload or similar file sharing websites, but they can easily get lost or expire, and keeping track of versions on those websites can be very difficult since outdated versions may in some cases be better indexed than newer versions. Additionally, the corresponding URLs are not always shared on the same forums and finding the latest links can be tricky. In general, one should not have to look through several forums and carefully compare post dates to finally use the Moras databases.
