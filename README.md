@@ -6,10 +6,10 @@ Multiple links for those files already exist on mediafire, dl.free, tinyupload o
 
 ## How to use
 1. Download and install `Moras-1.74.exe` or `Moras-1.73-modified_by_Esme.exe` (the latter has been adapted to Uthgard and seems to export in English while the 1.74 only exports to German, it should also better support automatic editing quickbars for spellcrafters; I have not tested). The executables should work with Wine if you are not using Windows.
-2. Download the database for your realm, `items.xml.REALM`
-3. Rename `Items.xml` from the Moras installation folder to `Items.xml.default`
-4. Paste the `items.xml.REALM` file into the Moras installation folder and rename it to `items.xml`
-5. Profit
+2. Download the database for your realm, `items.xml.REALM`.
+3. Rename `items.xml` from the Moras installation folder to `items.xml.default`.
+4. Paste the `items.xml.REALM` file into the Moras installation folder and rename it to `items.xml`.
+5. Profit.
 
 ## Disclaimer
 The databases are the result of long data collections and may, in some cases, be based on databases from DAOC Live. Yet, many items have changed, no longer drop, or have never been available on Uthgard. It is therefore highly recommended to double check if the items you find in the Moras database actually exist on Uthgard (check housing for instance) before finalizing your template.
